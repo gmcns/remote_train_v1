@@ -1,4 +1,6 @@
-﻿03 add css/all.css
+﻿04 add sc info
+
+03 add css/all.css
 
 02 add index.html
 
